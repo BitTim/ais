@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo Installing programs
 sudo pacman -S steam discord go sdl2 sdl2_ttf sdl2_image sdl2_mixer nvidia lutris gimp vim git neofetch
 echo Installing \"yay\"
